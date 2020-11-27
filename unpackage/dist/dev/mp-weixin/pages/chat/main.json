@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "iavatar": "/static/iview/avatar/index",
+    "iinput": "/static/iview/input/index",
+    "icon": "/static/component/icon/index",
+    "irow": "/static/iview/row/index",
+    "iicon": "/static/iview/icon/index",
+    "icol": "/static/iview/col/index",
+    "irate": "/static/iview/rate/index",
+    "imodel": "/static/iview/modal/index"
+  }
+}
